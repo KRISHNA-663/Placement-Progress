@@ -17,6 +17,7 @@ class Main
 		    else if(i=='w'){
 		        axis[0]-=1;
 		    }
+			
 		    else if(i=='e'){
 		        axis[0]+=1;
 		    }
