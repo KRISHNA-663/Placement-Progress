@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PashaandStick",
+            "request": "launch",
+            "mainClass": "PashaandStick",
+            "projectName": "Placement Practice_da819a8f"
+        },
+        {
+            "type": "java",
             "name": "GCD",
             "request": "launch",
             "mainClass": "GCD",

@@ -25,5 +25,6 @@ class GCD{
             n=n-m;
         }
         return m;
+        
     }
 }
