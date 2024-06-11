@@ -20,7 +20,7 @@ class Main{
         }
 
 
-        for(i=5;i>=0;i--){
+        for(i=4;i>=0;i--){
             for(j=i;j<5;j++){
                 System.out.print("*");
             }
